@@ -23,7 +23,5 @@ public class ControllerCalc extends Thread
 	{
 		valor /= (double) idThread;
 		System.out.println(valor);
-		
 	}
-	
 }
