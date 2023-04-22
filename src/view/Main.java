@@ -15,6 +15,5 @@ public class Main {
 		}
 
 	}
-	// Essa eu não lembro direito, mas espero que esteja certo
-	// deixarei privado depois das 10h da noite
+
 }
